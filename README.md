@@ -1,5 +1,5 @@
 # Hokuto_Musou_International_PS3_Korean_patch
-늙고 병든 사람이 만든 PS3 북괴무쌍 인터내셔널 한글패치에요
+늙고 병든 사람이 만든 PS3 북괴무쌍 인터내셔널가 한글패치에요
 
 
 1. 초중요!!! 한글패치 전 한번이라도 RPCS3에서 일어판 북두무쌍 International 을 실행했다면 
